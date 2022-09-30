@@ -8,7 +8,7 @@
 > 🛠️ Ferramentas:
 
 - JAVA;
-- - H2
+- H2
 - POSTGRESQL;
 - SPRING BOOT
 - GIT e GITHUB.
